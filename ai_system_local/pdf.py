@@ -94,7 +94,8 @@ SCADA Veri Örneği:
 # ======================
 # METİN ÇIKAR
 # ======================
-genai.configure(api_key="AIzaSyD5c3r1Zh9KvhVU2UzJYyXiOiQpOVYGDj0")
+genai.configure(api_key="Gemını_apı_key")
+
 
 def extract_text_from_pdf(pdf_path):
     reader = PdfReader(pdf_path)
@@ -144,3 +145,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
