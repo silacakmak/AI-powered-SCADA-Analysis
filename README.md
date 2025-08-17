@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ⚡ Enerjisa SCADA – Yapay Zekâ Destekli SCADA Analiz Arayüzü
 
 Bu proje, SCADA sistemlerinden alınan verilerin yapay zekâ ile analiz edilerek kullanıcı dostu bir arayüzde görselleştirilmesini amaçlamaktadır.
@@ -101,3 +102,7 @@ PR açın 🎉
 Projeyle ilgili sorular veya öneriler için:
 👉 GitHub Issues
 👉 ya da doğrudan bizimle iletişime geçebilirsiniz.
+=======
+# AI-powered-SCADA-Analysis
+AI-driven SCADA analysis application integrated with both local and API Gemini systems
+>>>>>>> e2db4b18ca3ac99106fc4c666465ecba11004a6b
